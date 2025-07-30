@@ -31,8 +31,4 @@ This project investigates the factors that explain differences in wages, with a 
 - **Linear Regression outperformed KNN and regression trees**, achieving the lowest MSE (0.0908).  
 - OLS estimates remained **unbiased and consistent**, even when residuals were non‑normal.  
 
-## Usage  
-1. Clone this repo.  
-2. Install dependencies: `pip install -r requirements.txt`  
-3. Run `analyze_wages.py` to reproduce the analysis.  
-4. View the model outputs and figures in the `results/` folder.
+
